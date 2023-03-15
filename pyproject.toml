@@ -5,7 +5,7 @@ version = "0.1.0"
 homepage = "https://github.com/abilian/str_builder"
 description = "Fancy Pythonic String Builder."
 authors = ["Abilian SAS <sf@abilian.com>"]
-readme = "README.rst"
+readme = "README.md"
 classifiers=[
     'Development Status :: 2 - Pre-Alpha',
     'Intended Audience :: Developers',
