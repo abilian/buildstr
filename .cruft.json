@@ -1,0 +1,21 @@
+{
+  "template": "git@github.com:abilian/cookiecutter-abilian-python.git",
+  "commit": "fabcae4db06073e46236f378728ec12d57dabf6c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Abilian SAS",
+      "email": "sf@abilian.com",
+      "github_username": "sfermigier",
+      "project_name": "Fancy String Builder",
+      "project_slug": "str_builder",
+      "project_short_description": "Pythonic string builder",
+      "pypi_username": "sfermigier",
+      "version": "0.1.0",
+      "add_pyup_badge": "n",
+      "open_source_license": "Apache Software License 2.0",
+      "_template": "git@github.com:abilian/cookiecutter-abilian-python.git"
+    }
+  },
+  "directory": null
+}
