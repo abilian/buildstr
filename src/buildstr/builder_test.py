@@ -1,4 +1,4 @@
-from str_builder import Builder
+from buildstr import Builder
 
 
 # Tests

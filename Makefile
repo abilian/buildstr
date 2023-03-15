@@ -2,7 +2,7 @@
 .PHONY: clean clean-build clean-pyc clean-test coverage dist docs install lint lint/flake8
 
 # The package name
-PKG=str_builder
+PKG=buildstr
 
 
 all: test lint

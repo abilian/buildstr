@@ -1,8 +1,8 @@
 [tool]
 [tool.poetry]
-name = "str_builder"
+name = "buildstr"
 version = "0.1.0"
-homepage = "https://github.com/abilian/str_builder"
+homepage = "https://github.com/abilian/buildstr"
 description = "Fancy Pythonic String Builder."
 authors = ["Abilian SAS <sf@abilian.com>"]
 readme = "README.md"
@@ -16,7 +16,7 @@ classifiers=[
     'Programming Language :: Python :: 3.11',
 ]
 packages = [
-    { include = "str_builder", from = "src" },
+    { include = "buildstr", from = "src" },
 ]
 
 

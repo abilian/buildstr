@@ -1,8 +1,8 @@
 # Fancy Pythonic String Builder
 
-[![image](https://img.shields.io/pypi/v/str_builder.svg)](https://pypi.python.org/pypi/str_builder)
+[![image](https://img.shields.io/pypi/v/buildstr.svg)](https://pypi.python.org/pypi/buildstr)
 
-[![image](https://img.shields.io/travis/sfermigier/str_builder.svg)](https://travis-ci.com/sfermigier/str_builder)
+[![image](https://img.shields.io/travis/sfermigier/buildstr.svg)](https://travis-ci.com/sfermigier/buildstr)
 
 [![Documentation Status](https://readthedocs.org/projects/str-builder/badge/?version=latest)](https://str-builder.readthedocs.io/en/latest/?version=latest)
 
@@ -21,7 +21,7 @@ Useful for generating code.
 
 ```python
 
-from str_builder import Builder
+from buildstr import Builder
 
 b = Builder("A")
 b << "B"
