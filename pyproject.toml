@@ -25,16 +25,15 @@ packages = [
 python = "^3.9"
 
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
 ## Standard cruft
 abilian-devtools = "*"
 
-# Cruft (project templates management)
 cruft = "*"
 toml = "*"
-
 ## /standard cruft
 
+pyanalyze = "^0.9.0"
 
 
 [tool.isort]
