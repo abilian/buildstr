@@ -24,6 +24,7 @@ class Builder:
         return self
 
     __ilshift__ = __lshift__
+    __iadd__ = __lshift__
 
     def __call__(self, *args, surround=None, separator=" ", name="sub"):
         root = self._get_root()

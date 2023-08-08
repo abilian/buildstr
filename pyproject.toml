@@ -122,6 +122,7 @@ ignore = [
     "S101",  # Use of `assert` detected
     "B019",  # Use of `functools.cache` on methods can lead to memory leaks
     "UP038", # Use `X | Y` in `isinstance` call instead of `(X, Y)`
+    "PLW2901", # `with` statement variable overwritten by assignment target
 ]
 
 
