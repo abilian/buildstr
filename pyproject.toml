@@ -1,7 +1,7 @@
 [tool]
 [tool.poetry]
 name = "buildstr"
-version = "0.1.0"
+version = "0.1.1"
 homepage = "https://github.com/abilian/buildstr"
 description = "Fancy Pythonic String Builder."
 authors = ["Abilian SAS <sf@abilian.com>"]
